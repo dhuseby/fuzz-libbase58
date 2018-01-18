@@ -1,0 +1,9 @@
+[submodule "libbase58"]
+	path = libbase58
+	url = github:bitcoin/libbase58.git
+[submodule "NaCl"]
+	path = NaCl
+	url = github:dhuseby/NaCl.git
+[submodule "afl"]
+	path = afl
+	url = github:mcarpenter/afl.git
